@@ -30,5 +30,5 @@ const fetchMovieAvailability = async (movieName) => {
         }, 500)
     })
 }
-
+ 
 export { fetchMovieList, fetchMovieAvailability }
